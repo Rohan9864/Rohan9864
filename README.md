@@ -1,6 +1,5 @@
  👋 Hi, I’m Rohan.
  <br>
- I'm currently diving into Python programming and exploring its vast potential. 
- 
+✨ Exploring Django to bring ideas to life through web development. Committed to continuous learning and building impactful projects!
 
 
