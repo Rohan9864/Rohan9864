@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Rohan</h1>
 <h3 align="center">I am a dedicated backend Python developer from Nepal, passionate about creating efficient and innovative solutions.</h3>
-<img align=“right” alt=“coding” width=“400” src=“/Users/rohandahal/Downloads">
+<img align=“right” alt=“coding” width=“400” src=“/Users/rohandahal/Downloads/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan9864&label=Profile%20views&color=0e75b6&style=flat" alt="rohan9864" /> </p>
 
