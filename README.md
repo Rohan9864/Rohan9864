@@ -2,7 +2,7 @@
 <h3 align="center">I am a dedicated backend Python developer from Nepal, passionate about creating efficient and innovative solutions.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan9864&label=Profile%20views&color=0e75b6&style=flat" alt="rohan9864" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/@roohantweets" target="blank"><img src="https://img.shields.io/twitter/follow/@roohantweets?logo=twitter&style=for-the-badge" alt="@roohantweets" /></a> </p>
 
